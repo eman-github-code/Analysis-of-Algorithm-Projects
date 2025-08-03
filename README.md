@@ -1,19 +1,12 @@
 # 🚀 Algorithm Collection
 
 This repository contains implementations of:
-- **Analysis of Algorithms**
 - **Greedy Algorithms**
 - **Graph Algorithms**
 - **Sorting Algorithms**
 - **Dynamic Programming Problems**
 
 ## 📂 Topics Covered
-
-### 1. Analysis of Algorithms
-- Time Complexity (Big O, Ω, Θ)
-- Space Complexity
-- Recurrence Relations (Master Theorem)
-- Amortized Analysis
 
 ### 2. Greedy Algorithms
 - Activity Selection
